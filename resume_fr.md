@@ -1,7 +1,7 @@
 # Objectif 
 Avec l'évolution des technologies de séquençage haut débit, la bio-informatique est devenue une part essentielle en biologie, notamment en médecine dans le diagnostic moléculaire. De nombreux outils informatiques libres et open sources existent déjà pour analyser les 
 données en génomiques. Cependant, ces outils nécessitent, pour la plupart,des compétences informatiques hors de portée d'un non-bioinformaticien qui a un désir d'autonomie.
-Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants accessibles à tous à l'aide d'interface graphique simple et épurée. Labsquare est une communauté de développeurs qui se veut l'alternative aux solution commerciale en produisant des logiciels libres et accessibles dans le domaine de la génomique. Nous avons l'idée de suivre le même modèle que différentes associations à but non lucratif comme Framasoft ou KDE.
+Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants accessibles à tous à l'aide d'interface graphique simple et épurée. Labsquare est une communauté de développeurs qui se veut l'alternative aux solutions commerciales en produisant des logiciels libres et accessibles dans le domaine de la génomique. Nous avons l'idée de suivre le même modèle que différentes associations à but non lucratif comme Framasoft ou KDE.
 
 # Technologie
 Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme.
