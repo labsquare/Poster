@@ -1,23 +1,16 @@
 # Objectif
-Avec l'evolution des technologies de séquençage haut débit, la bioinformatique est devenu une part enssentiel en biologie 
-ou encore en médecine dans le diagnostiques moléculaires.
-De nombreux outils bioinformatiques libre et opensource existent. Cependant, pour la plus 
-part, ces outils nécessite des compétence informatique et sont peu accessible pour des non-bioinformaticien qui ont un désir
-d'autonomie. Plusieurs startup ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants
-accessible à tous à l'aide d'interface graphique simple et epuré. 
-Labsquare est une communauté de développeurs qui se veut l'alternative aux solution commerciale en produisant des logiciels 
-libre et accessible dans le domaine de la génomiques. Nous avons comme objectif de suivre le même modèle que differentes 
-associations à but non lucratif comme framasoft ou KDE. 
+Avec l'évolution des technologies de séquençage haut débit, la bio-informatique est devenue une part essentielle en biologie  ou encore en médecine dans le diagnostic moléculaires.
+De nombreux outils bio-informatiques libres et open source existent. Cependant, pour la plus  part, ces outils nécessitent des compétences informatiques et sont peu accessibles pour des non-bioinformaticien qui ont un désir d'autonomie. Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants accessibles à tous à l'aide d'interface graphique simple et épurée. 
+Labsquare est une communauté de développeurs qui se veut l'alternative aux solutions commerciale en produisant des logiciels  libres et accessibles dans le domaine de la génomique. Nous avons comme objectif de suivre le même modèle que différentes  associations à but non lucratif comme framasoft ou KDE. 
 
 # Technologie
-Nos applications sont écrite à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme. 
+Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme. 
 
 # Communauté 
-Nous sommes pour l'instant une petite équipe au compétence diverse avec notaement des Médecin, programmeur 
-bioinformaticien et designers. 
+Nous sommes pour l'instant une petite équipe aux compétences diverse avec notamment des Médecins, programmeurs  bioinformaticien et designers. 
 
 # License 
-Toutes nos applications sous sous la licens GPL3 et disponnible sur Github . 
+Toutes nos applications sous la licence GPL3 et disponibles sur Github . 
 
 # Logiciel 
 FastQt 
@@ -27,8 +20,4 @@ CuteVariant
 CutePeaks 
 
 BigBrowser
-
-
-
-
 
