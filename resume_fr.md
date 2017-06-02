@@ -8,7 +8,7 @@ Labsquare est une communauté de développeurs qui se veut l'alternative aux sol
 Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme.
 
 # Respect des standards
-Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) et nous tachons de respecter leurs standards bio-informatique.
+Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) et nous tachons de respecter leurs standards.
 
 # License
 Toutes nos applications sous la licence GPL3 et disponibles sur Github .
