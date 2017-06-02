@@ -1,0 +1,37 @@
+#Slogan
+Labsquare is a community for genomic software. It aims to develop software usable by everyone.
+
+#Goal
+New genomic technologies have advanced significantly. Today we produce a large amount of data and bioinformatics has become crucial for biology and medicine. Several free software already exist to process genomics data, but most of them are command-line application and require computer skills. To help non-expert to analyze their data, several commercial companies are already on the move and seduce people with nice graphic user interfaces.
+Labsquare would like to be an alternative: a non-profit organization which produces simple and accessible open source genomic GUI software for everyone.  
+
+#Technology
+We are devotees of the Qt framework. A GPL C++ framework which helps us to develop modern cross-platform application. As an example, Spotify and Mendeley are built on top of Qt.
+
+#Community
+We are actually a small team, but all skills are present. We are bioinformaticians, developpers, physicians, geneticists and designers.
+All projects are available on GitHub and we are talking on #Gitter.
+
+#Licenses
+All software are built under GPLv3 license.
+
+# Application example
+
+## FastQt
+FastQt is the first Labsquare application. It is the clone of the famous FastQC application developed in Java. It is a tool to process FASTQ files, to get statistics and to display plots.
+You can test it and see how FastQt is different from the Java.
+[ screenshot]
+[ QR CODE ]
+[ WEB URL ]
+
+## CuteVCF
+A simple VCF viewer. We are working on something else called CuteVariant which works like Variant Tools.  
+[ screenshot]
+[ QR CODE ]
+[ WEB URL ]
+
+## BigBrowser
+A genome browser which mix features from IGV and Alamut Visual.
+[ screenshot]
+[ QR CODE ]
+[ WEB URL ]
