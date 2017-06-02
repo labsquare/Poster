@@ -1,23 +1,31 @@
-# Objectif
-Avec l'évolution des technologies de séquençage haut débit, la bio-informatique est devenue une part essentielle en biologie  ou encore en médecine dans le diagnostic moléculaires.
-De nombreux outils bio-informatiques libres et open source existent. Cependant, pour la plus  part, ces outils nécessitent des compétences informatiques et sont peu accessibles pour des non-bioinformaticien qui ont un désir d'autonomie. Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants accessibles à tous à l'aide d'interface graphique simple et épurée. 
-Labsquare est une communauté de développeurs qui se veut l'alternative aux solutions commerciale en produisant des logiciels  libres et accessibles dans le domaine de la génomique. Nous avons comme objectif de suivre le même modèle que différentes  associations à but non lucratif comme framasoft ou KDE. 
+# Objectif 
+Avec l'évolution des technologies de séquençage haut débit, la bio-informatique est devenue une part essentielle en biologie, notamment en médecine dans le diagnostic moléculaire. De nombreux outils informatiques libres et open sources existent déjà pour analyser les 
+données en génomiques. Cependant, ces outils nécessitent, pour la plupart,des compétences informatiques hors de portée d'un non-bioinformaticien qui a un désir d'autonomie.
+Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette demande en produisant des logiciels payants accessibles à tous à l'aide d'interface graphique simple et épurée. Labsquare est une communauté de développeurs qui se veut l'alternative aux solution commerciale en produisant des logiciels libres et accessibles dans le domaine de la génomique. Nous avons l'idée de suivre le même modèle que différentes associations à but non lucratif comme Framasoft ou KDE.
 
 # Technologie
-Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme. 
+Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme.
 
-# Communauté 
-Nous sommes pour l'instant une petite équipe aux compétences diverse avec notamment des Médecins, programmeurs  bioinformaticien et designers. 
+# Respect des standards
+Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) qui propose des standards bio-informatique que nous respectons.
 
-# License 
-Toutes nos applications sous la licence GPL3 et disponibles sur Github . 
+#License
+Toutes nos applications sous la licence GPL3 et disponibles sur Github .
 
-# Logiciel 
-FastQt 
+# Communauté
+Nous sommes pour l'instant une petite équipe bénévole aux compétences diverses avec notamment des Médecins, programmeur bioinformaticien et designers.
+
+#Logiciel
+Plusieurs logiciels sont déjà disponibles ou en cours de développement. 
+
+## FastQt
+Un clone de FastQC permettant l'analyse des fichiers fastq. 
 
 CuteVariant
+Un visualisateur de fichier VCF avec des options de filtrage 
 
-CutePeaks 
+CutePeaks ( en cours )
+Un visualisateur de fichier AB1 ( Sanger trace file).
 
-BigBrowser
-
+BigBrowser ( en cours )
+Un génome browser similaire à celui d'IGV
