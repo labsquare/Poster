@@ -5,7 +5,7 @@ Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette
 Labsquare est une communauté de développeurs qui se veut l'alternative aux solutions commerciales en produisant des logiciels graphiques, multiplatforme, libres et accessibles dans le domaine de la génomique. Nous avons comme idée de suivre le même modèle que différentes associations à but non lucratif comme Framasoft ou KDE.
 
 # Technologie
-Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme.
+Une de nos technologies préférées est le framework Qt/C++ qui nous permet de réaliser des interfaces graphiques modernes tournant sous Linux, MacOs et Windows. 
 
 # Respect des standards
 Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) et nous tachons de respecter leurs standards.
