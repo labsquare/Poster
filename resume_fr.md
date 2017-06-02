@@ -15,7 +15,7 @@ Toutes nos applications sous la licence GPL3 et disponibles sur Github .
 # Communauté
 Nous sommes pour l'instant une petite équipe bénévole aux compétences diverses avec notamment des Médecins, programmeur bioinformaticien et designers.
 
-#Logiciel
+# Logiciel
 Plusieurs logiciels sont déjà disponibles ou en cours de développement. 
 
 ## FastQt
