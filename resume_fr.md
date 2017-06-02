@@ -7,9 +7,9 @@ Plusieurs startups ont d’ores et déjà pris le devant pour répondre à cette
 Nos applications sont écrites à l'aide du framework Qt/C++ pour réaliser des interfaces moderne et multiplateforme.
 
 # Respect des standards
-Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) qui propose des standards bio-informatique que nous respectons.
+Labsquare est membre récent de la GA4GH ( Global Aliance for Genomics and Health) et nous tachons de respecter leurs standards bio-informatique.
 
-#License
+# License
 Toutes nos applications sous la licence GPL3 et disponibles sur Github .
 
 # Communauté
@@ -21,11 +21,11 @@ Plusieurs logiciels sont déjà disponibles ou en cours de développement.
 ## FastQt
 Un clone de FastQC permettant l'analyse des fichiers fastq. 
 
-CuteVariant
+## CuteVariant
 Un visualisateur de fichier VCF avec des options de filtrage 
 
-CutePeaks ( en cours )
+## CutePeaks ( en cours )
 Un visualisateur de fichier AB1 ( Sanger trace file).
 
-BigBrowser ( en cours )
+## BigBrowser ( en cours )
 Un génome browser similaire à celui d'IGV
