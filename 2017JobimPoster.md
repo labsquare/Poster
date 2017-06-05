@@ -1,6 +1,6 @@
 
 # Slogan
-Labsquare is a community dedicated to building genomic software that is understandable and usable by everyone.
+Labsquare is a community of dedicated individuals focusing on development of simple and usable genomic software.
 
 # Goal
 Genomic technologies are constantly evolving. Today, we produce a large amount of data and bioinformatics has become crucial for biology and medicine. Several free solutions already exist to process genomic data, but most of them are not-so-user-friendly command-line applications and require advanced computer skills. To help non-experts to analyze their data, several commercial companies are already on the move and are seducing people with nice graphical user interfaces. Labsquare would like to be an alternative: a non-profit organization which produces simple and accessible open source genomic GUI software for everyone.  
