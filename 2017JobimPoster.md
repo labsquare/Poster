@@ -9,8 +9,7 @@ Genomic technologies are constantly evolving. Today, we produce a large amount o
 We are devotees of the Qt framework, a GPL C++ framework which allows us to develop modern cross-platform applications. As an example, Spotify and Mendeley are built on top of Qt.
 
 # Community
-We are actually a small team, but all skills are present. We are bioinformaticians, developers, physicians, geneticists and designers.
-All our projects are available on GitHub and we are talking on #Gitter.
+So far we are just a small team, but all skills are present. We are bioinformaticists, geneticists, physicians, developers, and designers. Our open source projects are available on GitHub and we are talking on #Gitter.
 
 # Licenses
 All our software is available under GPLv3 license.
@@ -18,20 +17,19 @@ All our software is available under GPLv3 license.
 # Application examples
 
 ## FastQt
-FastQt is the first Labsquare application. It is a clone of the famous FastQC application developed in Java. It is a tool to process FASTQ files, get statistics and display plots.
-You can test it and see how FastQt is different from the Java software.
+FastQt is a fast, clean and intuitive tool designed to process FASTQ files. We developed it from ground up and it's taking a lot of inspiration by the famous FastQC app.
 [ screenshot]
 [ QR CODE ]
 [ WEB URL ]
 
 ## CuteVCF
-A simple VCF viewer. We are working on something else called CuteVariant which works like Variant Tools.  
+CuteVCF is a simple and intuitive VCF viewer. We are also working on another similar app, inspired by Variant Tools. 
 [ screenshot]
 [ QR CODE ]
 [ WEB URL ]
 
 ## BigBrowser
-A genome browser which mix features from IGV and Alamut Visual.
+BigBrowser is our awesome gnome browser, taking lost of inspiration from famous IGV and Alamut Visual.
 [ screenshot]
 [ QR CODE ]
 [ WEB URL ]
