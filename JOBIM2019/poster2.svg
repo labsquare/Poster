@@ -16,7 +16,10 @@
    version="1.1"
    id="svg4831"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="poster2.svg">
+   sodipodi:docname="poster2.svg"
+   inkscape:export-filename="/home/sacha/Dev/Poster/JOBIM2019/poster2.pdf.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4">
   <defs
      id="defs4825">
     <filter
@@ -121,9 +124,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1529.6967"
-     inkscape:cy="213.83327"
+     inkscape:zoom="0.32"
+     inkscape:cx="1194.3092"
+     inkscape:cy="290.19349"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -139,7 +142,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <sodipodi:guide
        position="932.84521,142.11904"
        orientation="0,1"
@@ -187,7 +190,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -197,6 +200,15 @@
      id="layer1"
      transform="translate(0,892)"
      style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96199995;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1054"
+       width="841"
+       height="142.06879"
+       x="6.6290204e-09"
+       y="154.93121"
+       rx="0"
+       ry="0" />
     <rect
        y="-898.04767"
        x="4.1058814e-09"
@@ -5230,7 +5242,7 @@ AAAAqFz/AeocUDpy+EaiAAAAAElFTkSuQmCC
       <polygon
          style="fill:#09102b;stroke-width:2.18020511"
          class="st0"
-         points="0,96.1 0,100.4 4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 92.1,55 79.3,67.8 12.1,67.8 8.8,67.8 0,67.8 0,94.5 "
+         points="12.1,67.8 8.8,67.8 0,67.8 0,94.5 0,96.1 0,100.4 4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 92.1,55 79.3,67.8 "
          id="polygon9205" />
       <g
          id="g9207"
@@ -5293,7 +5305,7 @@ AAAAqFz/AeocUDpy+EaiAAAAAElFTkSuQmCC
       <polygon
          style="fill:#41cd52;stroke-width:2.18020511"
          class="st2"
-         points="92.1,12.3 92.1,8.8 92.1,0 83.2,0 80,0 12.8,0 0,12.8 0,55.5 0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 "
+         points="0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 92.1,12.3 92.1,8.8 92.1,0 83.2,0 80,0 12.8,0 0,12.8 0,55.5 "
          id="polygon9227" />
       <path
          style="fill:#ffffff;stroke-width:2.18020511"
