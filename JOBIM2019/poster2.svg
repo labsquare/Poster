@@ -124,11 +124,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32"
-     inkscape:cx="1582.8319"
-     inkscape:cy="1597.0114"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="1048.8405"
+     inkscape:cy="3792.2515"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1-8"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:snap-page="true"
@@ -142,7 +142,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <sodipodi:guide
        position="932.84521,142.11904"
        orientation="0,1"
@@ -151,6 +151,11 @@
     <inkscape:grid
        type="xygrid"
        id="grid440" />
+    <sodipodi:guide
+       position="19.843749,1223.6979"
+       orientation="1,0"
+       id="guide342"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4828">
@@ -350,7 +355,7 @@
       <polygon
          style="fill:#09102b;stroke-width:2.18020511"
          class="st0"
-         points="4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 92.1,55 79.3,67.8 12.1,67.8 8.8,67.8 0,67.8 0,94.5 0,96.1 0,100.4 "
+         points="79.3,67.8 12.1,67.8 8.8,67.8 0,67.8 0,94.5 0,96.1 0,100.4 4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 92.1,55 "
          id="polygon9205" />
       <g
          id="g9207"
@@ -413,7 +418,7 @@
       <polygon
          style="fill:#41cd52;stroke-width:2.18020511"
          class="st2"
-         points="92.1,0 83.2,0 80,0 12.8,0 0,12.8 0,55.5 0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 92.1,12.3 92.1,8.8 "
+         points="0,55.5 0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 92.1,12.3 92.1,8.8 92.1,0 83.2,0 80,0 12.8,0 0,12.8 "
          id="polygon9227" />
       <path
          style="fill:#ffffff;stroke-width:2.18020511"
@@ -868,7 +873,7 @@
       <g
          id="g5937"
          inkscape:label="logo"
-         transform="translate(-18.507633,-10.664588)">
+         transform="translate(-21.581274,-10.664588)">
         <g
            style="fill:#ffffff;stroke-width:2.39395618"
            transform="matrix(0.63686001,0,0,-0.63686001,112.89552,177.60794)"
