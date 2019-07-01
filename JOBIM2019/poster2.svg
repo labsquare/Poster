@@ -124,11 +124,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="86.802776"
-     inkscape:cy="2619.5257"
+     inkscape:zoom="0.32"
+     inkscape:cx="1582.8319"
+     inkscape:cy="1597.0114"
      inkscape:document-units="mm"
-     inkscape:current-layer="g6663"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:snap-page="true"
@@ -142,7 +142,7 @@
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <sodipodi:guide
        position="932.84521,142.11904"
        orientation="0,1"
@@ -169,12 +169,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,892)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.96199995;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.97117758;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1054"
-       width="841"
+       width="857.12305"
        height="142.06879"
        x="-16.123047"
        y="154.93121"
@@ -187,14 +186,12 @@
        width="841"
        id="rect4642"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#24172e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:23.92926979;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       inkscape:label="fond_violet"
-       sodipodi:insensitive="true" />
+       inkscape:label="fond_violet" />
     <g
        style="display:inline;enable-background:new"
        id="g4525"
        transform="matrix(2.2198601,0,0,2.2198601,-982.16212,-904.82929)"
-       inkscape:label="palette"
-       sodipodi:insensitive="true">
+       inkscape:label="palette">
       <rect
          width="24"
          height="24"
@@ -317,8 +314,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="central"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <image
        y="430.20084"
        x="-1698.5083"
@@ -354,7 +350,7 @@
       <polygon
          style="fill:#09102b;stroke-width:2.18020511"
          class="st0"
-         points="92.1,55 79.3,67.8 12.1,67.8 8.8,67.8 0,67.8 0,94.5 0,96.1 0,100.4 4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 "
+         points="4.2,100.4 5.8,100.4 86,100.4 92.1,94.3 92.1,55 79.3,67.8 12.1,67.8 8.8,67.8 0,67.8 0,94.5 0,96.1 0,100.4 "
          id="polygon9205" />
       <g
          id="g9207"
@@ -417,7 +413,7 @@
       <polygon
          style="fill:#41cd52;stroke-width:2.18020511"
          class="st2"
-         points="0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 92.1,12.3 92.1,8.8 92.1,0 83.2,0 80,0 12.8,0 0,12.8 0,55.5 "
+         points="92.1,0 83.2,0 80,0 12.8,0 0,12.8 0,55.5 0,59 0,67.8 8.8,67.8 12.1,67.8 79.3,67.8 92.1,55 92.1,12.3 92.1,8.8 "
          id="polygon9227" />
       <path
          style="fill:#ffffff;stroke-width:2.18020511"
@@ -1126,7 +1122,7 @@
          id="tspan16451"
          x="25.124554"
          y="-710.57227"
-         style="text-align:start;text-anchor:start;fill:#eeeeec;stroke-width:0.85962158">A standalone and opensource application to explore </tspan><tspan
+         style="text-align:start;text-anchor:start;fill:#eeeeec;stroke-width:0.85962158">A standalone and free application to explore </tspan><tspan
          sodipodi:role="line"
          x="25.124554"
          y="-674.93903"
@@ -1261,9 +1257,9 @@
            id="rect6579"
            style="letter-spacing:8.07999992px" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:1px;text-anchor:start;fill:#ffffff"
-         id="flowPara981">VCF files are processed and imported  into a local SQLite database.  Presently snpEff and VEP annotation are supported.</flowPara><flowPara
+         id="flowPara981">VCF files are processed and imported  into a local SQLite database. The data is therefore stored locally without the need to send it to a third party server. Presently snpEff and VEP annotations are supported.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:justify;letter-spacing:1px;text-anchor:start;fill:#ffffff"
-         id="flowPara322">Thanks to abstraction, customizable parsers can be create to support different file formats.</flowPara></flowRoot>    <flowRoot
+         id="flowPara322">Thanks to abstractions, customizable parsers can be created to support different file formats.</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.26458333,0,0,0.26458333,435.18113,-550.26459)"
        xml:space="preserve"
        id="flowRoot6613"
@@ -1326,7 +1322,7 @@
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path6659"
-         d="m 660.96831,746.03076 0,-59.53125 -57.19859,-0.002"
+         d="m 660.96831,746.03076 v -59.53125 l -57.19859,-0.002"
          style="fill:none;fill-rule:evenodd;stroke:#ffcb63;stroke-width:0.96229261;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="3.2127974"
